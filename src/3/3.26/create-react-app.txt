@@ -1,0 +1,3 @@
+NOTE: the create-react-app tool on Github can be used to easily set up a 
+react project. It bundles webpack, babel, ESLint, react, reactDOM, etc 
+as one dependency.
